@@ -8,7 +8,6 @@ Using 2D landmarks, [AFLW2000 dataset](https://www.kaggle.com/datasets/androsstr
   <a href="#license">License</a>
 </p>
 
-![screenshot](output.gif)
 
 ## Getting Started
 
